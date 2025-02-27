@@ -1,0 +1,12 @@
+<Header>
+  <Name>Permanent Devolution</Name>
+  <Author>MistressNebula</Author>
+  <Description>Adds a new option to Luminous Spring that allows pokémon to revert to their previous evolution stages.
+  Reverting item-based evolutions requires Heart Scales, but also gives the item back.</Description>
+  <Namespace>devolution</Namespace>
+  <UUID>3DAA1C36-9B30-4120-A786-86D7C907E4F6</UUID>
+  <Version>1.0</Version>
+  <GameVersion>0.8.8</GameVersion>
+  <ModType>Mod</ModType>
+  <Relationships />
+</Header>
